@@ -1,0 +1,31 @@
+{
+  "name": "painter",
+  "version": "0.1.0",
+  "description": "A HTML5 Paint thing",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"TODO: Set build steps\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binarymage/html5-paint.git"
+  },
+  "keywords": [
+    "HTML5",
+    "JavaScript",
+    "canvas"
+  ],
+  "author": "George MacKay-Shore <george@georgeshore.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/binarymage/html5-paint/issues"
+  },
+  "homepage": "https://github.com/binarymage/html5-paint#readme",
+  "devDependencies": {
+    "eslint": "^4.11.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  }
+}
